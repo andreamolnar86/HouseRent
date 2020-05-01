@@ -1,4 +1,4 @@
-1.lépés: nyaralo_script.sql végrehajtása (létrejön az adatbázis s annak táblái és feltöltodnek adatokkal)
-2.lépés: Berlesek_pelda_2018 projekt megnyitása Visual Studio-val 
-3.lépés: DAL.cs fájlban a kapcsolati karakterlánc (strSqlConn) testreszabása 
-4.lépés: program futtatása (Start)
+1.lÃ©pÃ©s: nyaralo_script.sql vÃ©grehajtÃ¡sa (lÃ©trejÃ¶n az adatbÃ¡zis s annak tÃ¡blÃ¡i Ã©s feltÃ¶ltodnek adatokkal)
+2.lÃ©pÃ©s: HouseRent projekt megnyitÃ¡sa Visual Studio-val 
+3.lÃ©pÃ©s: DAL.cs fÃ¡jlban a kapcsolati karakterlÃ¡nc (strSqlConn) testreszabÃ¡sa 
+4.lÃ©pÃ©s: program futtatÃ¡sa (Start)
